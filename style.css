@@ -1,0 +1,12 @@
+.container {
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+    border: 1px dashed #333;
+}
+
+.img-base {}
+
+.img-red {}
+
+.img-blue {}
